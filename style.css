@@ -38,3 +38,7 @@
   border-radius: 55px;
   background-color: hsl(182, 25%, 50%, 0.5);
 }
+
+.downArrow {
+  color:black
+}
