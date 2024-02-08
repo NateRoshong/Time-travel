@@ -1,3 +1,18 @@
-.blue{
-    color: blue;
+.title{
+    text-align: center;
+    font-size: 500%;
+}
+
+.box{
+  width: 60%; 
+  padding: 5%;
+  border-radius: 55px;
+  background-color: hsl(182, 25%, 50%, 0.5);
+}
+
+
+.container {
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
