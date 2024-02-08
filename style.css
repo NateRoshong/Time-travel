@@ -32,13 +32,7 @@
 .info{
   text-align: center;
   margin-top: 20px;
-  
-  width:25%;
   padding :2.5%;
-  border-radius: 55px;
+  
   background-color: hsl(182, 25%, 50%, 0.5);
-}
-
-.downArrow {
-  color:black
 }
