@@ -3,9 +3,21 @@
     font-size: 500%;
 }
 
+.title {
+  margin-top: 150px;
+}
+
+.padL {
+  padding-left: 30px;
+}
+
+.padR{
+  padding-right: 30px;
+}
+
 .box{
   width: 60%; 
-  padding: 5%;
+  padding: 2.5%;
   border-radius: 55px;
   background-color: hsl(182, 25%, 50%, 0.5);
 }
@@ -15,4 +27,12 @@
     display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+.info{
+  text-align: center;
+  margin-top: 20px;
+  padding :2.5%;
+  
+  background-color: hsl(182, 25%, 50%, 0.5);
 }
