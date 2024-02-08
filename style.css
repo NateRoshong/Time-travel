@@ -1,10 +1,10 @@
 .title{
     text-align: center;
-    font-size: 500%;
+    font-size: 300%;
 }
 
 .title {
-  margin-top: 150px;
+  margin-top: 20%;
 }
 
 .padL {
@@ -35,4 +35,7 @@
   padding :2.5%;
   
   background-color: hsl(182, 25%, 50%, 0.5);
+}
+.NT{
+  color: rgb(0, 102, 255);
 }
