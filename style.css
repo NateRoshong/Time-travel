@@ -5,6 +5,7 @@
 
 .title {
   margin-top: 20%;
+  color: cyan;
 }
 
 .padL {
@@ -44,4 +45,10 @@
 
 .NT{
   color: rgb(0, 102, 255);
+}
+.bgrounde-img{
+  background-image: url(images/space\ background.jpg);
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
