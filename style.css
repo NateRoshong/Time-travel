@@ -33,9 +33,15 @@
   text-align: center;
   margin-top: 20px;
   padding :2.5%;
+  border-radius: 55px;
   
   background-color: hsl(182, 25%, 50%, 0.5);
 }
+
+.infoDiv{
+
+}
+
 .NT{
   color: rgb(0, 102, 255);
 }
